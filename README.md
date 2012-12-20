@@ -1,12 +1,12 @@
 VR-JOULUKALENTERI
 =================
 
-Raportoi VR:n tähänastiset [joulukalenterin][vrjoulu] tarjoukset.
+Raportoi VR:n [joulukalenterin][vrjoulu] tähänastiset tarjoukset.
 
 Asennus
 -------
 
-Vaatii [TickTickin][ticktick]. Asenna TickTick PATHiin, suosittelemme standardia `~/scripts` hakemistoa.
+Vaatii [TickTickin][ticktick]. Asenna `ticktick.sh` PATHiin tai samaan hakemistoon kuin `vr-joulu.sh`. Suosittelemme standardia `~/scripts` hakemistoa.
 
 Laita vr-joulu croniin niin ajetaan aamuysiltä. Postia tulee perästä jos oot konffannut cronin siten. Muuten menee logeihin.
 
